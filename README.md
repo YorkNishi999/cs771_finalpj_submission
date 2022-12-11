@@ -3,7 +3,7 @@ Note that the environment and code is implemented in Ubuntu 20.04, and there are
 # Environment / Data download
 1. Run the command
 ```
-git clone 
+git clone git@github.com:YorkNishi999/cs771_finalpj_submission.git
 cd /path/to/repo
 conda env create -f environment.yml
 ```
